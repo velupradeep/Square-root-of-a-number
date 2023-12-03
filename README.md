@@ -15,7 +15,8 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-``num=int(input())
+```
+num=int(input())
 a=1e-6
 max=100
 guess=num/2.0
@@ -28,7 +29,8 @@ print(f"Square root of the number: {new}")
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![sqrt](https://github.com/velupradeep/Square-root-of-a-number/assets/150329341/ce0c0533-28fb-401e-9947-4a48b89e2031)
+
 
 
 ## Result:
