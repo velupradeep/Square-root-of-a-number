@@ -26,10 +26,11 @@ for _ in range(max):
         break
     guess=new
 print(f"Square root of the number: {new}")
-```
+ ```
 
 ## Output:
-![sqrt](https://github.com/velupradeep/Square-root-of-a-number/assets/150329341/ce0c0533-28fb-401e-9947-4a48b89e2031)
+
+![ex 2 2](https://github.com/velupradeep/Square-root-of-a-number/assets/150329341/4b7accef-d240-49a6-8355-9b1976931a28)
 
 
 
