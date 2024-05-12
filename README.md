@@ -16,6 +16,8 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
+NAME:PRADEEP V
+REG NO:212223240119
 num=int(input())
 a=1e-6
 max=100
@@ -29,8 +31,8 @@ print(f"Square root of the number: {new}")
  ```
 
 ## Output:
-
-![ex 2 2](https://github.com/velupradeep/Square-root-of-a-number/assets/150329341/4b7accef-d240-49a6-8355-9b1976931a28)
+![alt text](image.png)
+![alt text](<image copy.png>)
 
 
 
